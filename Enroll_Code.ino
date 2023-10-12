@@ -1,4 +1,3 @@
-#include <Adafruit_Fingerprint.h>
 
 /* 
 
@@ -18,6 +17,9 @@ Support me
 Github - https://github.com/RithinM69
 
 */
+
+#include <Adafruit_Fingerprint.h>
+
 SoftwareSerial mySerial(2, 3);
 
 Adafruit_Fingerprint finger = Adafruit_Fingerprint(&mySerial);
