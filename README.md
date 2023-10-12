@@ -7,3 +7,4 @@ Components Used :
 -  Push Button switch - 4
 -  Connecting wires
 
+Feel free to contact me about any queries regarding this project.
