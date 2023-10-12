@@ -8,7 +8,8 @@ Components Used :
 -  Connecting wires
 
 Note - 
-- First run "Enroll_Code.ino" and store your fingerprints on R307.
-- Then run "Vote_Code.ino"
+-  You must install Adafruit_Fingerprint Library on your system
+-  First run "Enroll_Code.ino" and store your fingerprints on R307.
+-  Then run "Vote_Code.ino"
 
 Feel free to contact me about any queries regarding this project.
