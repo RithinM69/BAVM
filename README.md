@@ -14,4 +14,3 @@ Note -
 
 Feel free to contact me about any queries regarding this project.
 
-*I am currently woring on the connection diagram. And will add it asap.
